@@ -1,0 +1,11 @@
+{
+  "name": "web-newapp-cli-template-vue3-vite",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "vue3 + vite + pinia + vue-router + vue-i18n",
+  "scripts": {
+  },
+  "devDependencies": {
+    "web-newapp-cli": "^1.0.4"
+  }
+}
